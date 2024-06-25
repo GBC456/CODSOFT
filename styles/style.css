@@ -301,11 +301,11 @@ input:checked + .toggle-slider:before {
     /* width: 8vw; */
 }
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
     .row .col button{
         width: 10vw;
     }
-}
+} */
  
 #answer {
     caret-color: #0f38f1;
